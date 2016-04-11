@@ -1,4 +1,4 @@
-/**
+﻿/**
  * Created by Женя on 15.01.2016.
  */
 /* НОД
@@ -19,7 +19,6 @@ public class NOD
     public static void main(String[] args) throws IOException
         {
 
-//
 
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
             int a = Integer.parseInt(reader.readLine());
