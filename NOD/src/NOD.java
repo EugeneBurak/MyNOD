@@ -90,18 +90,7 @@ public class NOD
     {
         public static void main(String[] args) throws IOException
         {
-
-//    //числа Фибоначи
-//    public static void main(String[] args)
-//    {
-//        int r, n1 = 0, n2 =1;
-//        for (int n = 1; n <= 20; n++)
-//        {
-//            r = n1+n2;
-//            System.out.println(n+": "+r);
-//            n1 = n2;
-//            n2 = r;
-//        }
+// я решил потренироваться!
 
             BufferedReader reader = new BufferedReader(new InputStreamReader(System.in));
             int a = Integer.parseInt(reader.readLine());
