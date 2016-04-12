@@ -90,7 +90,7 @@ public class NOD
     {
         public static void main(String[] args) throws IOException
         {
-//  тренируюсь
+//  тренируюсь надо писать в чем измениения
 //    //числа Фибоначи
 //    public static void main(String[] args)
 //    {
